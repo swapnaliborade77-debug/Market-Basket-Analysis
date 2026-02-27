@@ -12,6 +12,7 @@ Groceries dataset from Kaggle.
 - Mlxtend
 - Matplotlib
 - Seaborn
+-sklearn
 
 ## Steps
 1. Data preprocessing
@@ -22,5 +23,4 @@ Groceries dataset from Kaggle.
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
 python -m jupyter notebook
